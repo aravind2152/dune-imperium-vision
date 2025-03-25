@@ -1,8 +1,8 @@
-# Eyes of the Empire: A Machine Vision System for Diuna Imperium
+# Eyes of the Empire: A Machine Vision System for Dune Imperium
 
 ---
 
-> 🐍🎲 Python-powered Computer Vision project automating gameplay for the board game Dune Empire 🚀! The system accurately identifies and counts player units—colored cubes—in conflict zones ⚔️ and garrisons 🛡️ using image processing techniques! 🔍✨
+> 🐍🎲 Python-powered Computer Vision project automating gameplay for the board game Dune Imperium 🚀! The system accurately identifies and counts player units—colored cubes—in conflict zones ⚔️ and garrisons 🛡️ using image processing techniques! 🔍✨
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## PROJECT OVERVIEW
 
-This project introduces an automated vision-based solution designed to enhance gameplay for the board game "Diuna Imperium." The crucial gameplay element involves resolving military conflicts where players deploy units, represented by colored wooden cubes, into conflict areas. The primary goal of this computer vision system is to identify the units based on their colors, determine their quantity, and categorize them into units actively participating in conflicts or stationed in garrisons around the conflict zone.
+This project introduces an automated vision-based solution designed to enhance gameplay for the board game "Dune Imperium" The crucial gameplay element involves resolving military conflicts where players deploy units, represented by colored wooden cubes, into conflict areas. The primary goal of this computer vision system is to identify the units based on their colors, determine their quantity, and categorize them into units actively participating in conflicts or stationed in garrisons around the conflict zone.
 
 The system processes an image of the game board taken from various perspectives and standard lighting conditions, demonstrating flexibility and robustness in practical gaming scenarios.
 
